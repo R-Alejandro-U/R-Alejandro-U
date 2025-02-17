@@ -55,7 +55,7 @@ Me destaco por mi adaptabilidad, capacidad para trabajar bajo presión y actitud
 
 📫 **Contacto:**
 
-- [LinkedIn]: (https://www.linkedin.com/in/alejandro-urdaneta](https://www.linkedin.com/in/alejandro-enrique-urdaneta-marquez-298910272/)
-- [Email]: (alejandro.urdaneta2314@gmail.com)
+- [LinkedIn] (https://www.linkedin.com/in/alejandro-urdaneta](https://www.linkedin.com/in/alejandro-enrique-urdaneta-marquez-298910272/)
+- [Email] (alejandro.urdaneta2314@gmail.com)
 
 
