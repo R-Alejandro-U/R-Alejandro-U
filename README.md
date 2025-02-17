@@ -53,6 +53,12 @@ Me destaco por mi adaptabilidad, capacidad para trabajar bajo presión y actitud
 
 ---
 
+Si te interesa seguir mis proyectos y estar al tanto de nuevas actualizaciones, ¡no olvides seguirme en GitHub! 
+
+-- [R-Alejandro-U](https://github.com/R-Alejandro-U)
+
+---
+
 📫 **Contacto:**
 
 - [LinkedIn](https://www.linkedin.com/in/alejandro-enrique-urdaneta-marquez-298910272/)
