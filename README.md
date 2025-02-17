@@ -55,7 +55,7 @@ Me destaco por mi adaptabilidad, capacidad para trabajar bajo presión y actitud
 
 Si te interesa seguir mis proyectos y estar al tanto de nuevas actualizaciones, ¡no olvides seguirme en GitHub! 
 
--- [R-Alejandro-U](https://github.com/R-Alejandro-U)
+- [R-Alejandro-U](https://github.com/R-Alejandro-U)
 
 ---
 
